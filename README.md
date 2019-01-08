@@ -1,7 +1,7 @@
 # 使用方法
 ## 第一步、安装
 ```
-git clone 
+git clone git@github.com:MLBrain/QA.git
 cd ./www
 pip install -e .
 ```
